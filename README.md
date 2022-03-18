@@ -1,13 +1,13 @@
 ## 功能介绍 
     
-中小学微校园小程序, 功能包括学校概况，校园资讯，校园风光，德育工作，教师园地，学生天地，校友情深，来访预约，校园活动，
-采用腾讯提供的小程序云开发解决方案，无须服务器和域名
+会议室是一个单位或部门的共用资源,但在使用的时候往往会遇到时间冲突、预约困难、不方便协调等问题。目前大部分公司是统一在公司群聊中预约，每次预约时，都需要翻一下聊天记录，了解是否有人预定以及预定时间等。如果冲突则需要找到相关联系人进行沟通。查找历史预约记录麻烦。而现在员工人人都有微信，基于微信环境下的小程序，不用安装独立APP，访问方便。所以我们可以基于小程序，借助于会议室预约系统改善这种情况，实现会议室资源的最优使用
 
 - 预约管理：开始/截止时间/人数均可灵活设置，可以自定义客户预约填写的数据项
 - 预约凭证：支持线下到场后校验签到/核销/二维码自助签到等多种方式
 - 详尽的预约数据：支持预约名单数据导出Excel，打印
+ 
 
-![输入图片说明](demo/2f7797fe6d6de727d52edac94b3319c.png)
+![image](https://user-images.githubusercontent.com/101682044/158978844-ca2a7baa-4c48-47fe-a0f4-2fbef01d5fb6.png)
 
 ## 技术运用
 - 本项目使用微信小程序平台进行开发。
@@ -18,17 +18,12 @@
 
 
 
-## 作者
-- 如有疑问，欢迎骚扰联系我鸭：开发交流，技术分享，问题答疑，功能建议收集，版本更新通知，安装部署协助，小程序开发定制等。
-- 俺的微信:
-
-![输入图片说明](https://gitee.com/naive2021/smartcollege/raw/master/demo/author.jpg)
-
+ 
 
 
 ## 演示
 
-![输入图片说明](demo/2f7797fe6d6de727d52edac94b3319c.png)
+ ![image](https://user-images.githubusercontent.com/101682044/158978857-7d8b313e-2777-4a22-bc0e-35dd9a705e46.png)
 
  
 
@@ -40,19 +35,22 @@
 
 
 ## 截图
+ ![image](https://user-images.githubusercontent.com/101682044/158978868-538e0fc4-8e87-4464-ad91-8602b3a2729d.png)
+![image](https://user-images.githubusercontent.com/101682044/158978880-1baa0ea8-faaa-476e-af21-d958c78dc861.png)
+![image](https://user-images.githubusercontent.com/101682044/158978838-ac9d2f08-94cc-4771-8e57-2c374c7603f2.png)
+![image](https://user-images.githubusercontent.com/101682044/158978894-7f1ffb8c-e471-4bb5-ba44-038308c5e408.png)
+![image](https://user-images.githubusercontent.com/101682044/158978902-17c4704c-85b7-451a-b086-35523c413e47.png)
+![image](https://user-images.githubusercontent.com/101682044/158978884-43aef69c-1b49-44c1-b907-150f4e61603d.png)
+![image](https://user-images.githubusercontent.com/101682044/158978910-cabc4689-ff33-4a33-b83b-7f6baf656b37.png)
+![image](https://user-images.githubusercontent.com/101682044/158978916-5b30c487-6e28-4ec2-b755-41f94ea6a658.png)
 
-![输入图片说明](demo/1645253302(1).png) 
-![输入图片说明](demo/1645253319(1).png)
-![输入图片说明](demo/1645253344(1).png)
-![输入图片说明](demo/1645253359(1).png)
-![输入图片说明](demo/image.png)
-![输入图片说明](demo/1645253415(1).jpg)
-![输入图片说明](demo/1645253431(1).png)
-![输入图片说明](demo/1645253445(1).png)
-![输入图片说明](demo/1645253466(1).png)
-![输入图片说明](demo/1645253487(1).png)
-![输入图片说明](demo/1645253509(1).png)
-![输入图片说明](demo/1645253534(1).jpg)
-
+![image](https://user-images.githubusercontent.com/101682044/158978989-b87166e7-8341-48bf-afff-b43574d32af2.png)
 
 ## 后台管理系统截图
+![image](https://user-images.githubusercontent.com/101682044/158978991-a1e7dbb1-ed8a-43fc-bdf8-299a00a608e7.png)
+![image](https://user-images.githubusercontent.com/101682044/158978992-3dbd8cea-9189-4a6a-914b-d42697deb3b0.png)
+![image](https://user-images.githubusercontent.com/101682044/158978990-bc0e6591-d3c9-48c3-a532-46b14beb6e67.png)
+![image](https://user-images.githubusercontent.com/101682044/158978994-d4ebe6b7-9ee8-401e-adc9-6f0b747f6c82.png)
+![image](https://user-images.githubusercontent.com/101682044/158978993-26beaeeb-d686-4af0-90ff-c367869c27d2.png)
+
+
